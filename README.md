@@ -9,6 +9,21 @@
 * 작품의 특징 : 간편하고 깔끔한 페이지 구성
 ---
 
+## 📆 05월 11일
+* [X] MAIN → 3개짜리 카드 완성
+* [X] MAIN → 4개짜리 카드 완성
+* [X] STYLE → STYLE MAIN 카드 완성
+* [X] SHOP → SHOP MAIN 카드 완성
+* [X] MY PAGE → PROFILE 카드 완성
+* [X] MY PAGE → PURCHASE HISTORY 카드 틀 완성
+* [X] MAIN → 중앙 텍스트 스크롤 부분 텍스트&텍스트 사이 간격 제거 (MARQUEE태그 제거 후 script 사용으로 해결)
+<br><br>
+* [ ] MY PAGE → PURCHASE HISTORY 카드 완성
+* [ ] 반복되는 카드 모두 완성
+* [ ] SHOP → SHOP DETAIL PAGE 수정 및 완성
+* [ ] MAIN → 사이드 텍스트스크롤 고정 및 위치 수정
+---
+
 ## 📆 04월 06일
 * [X] STYLE → 페이지 구현 (메인 위주)
 * [X] MAIN → 네비게이션 바 SIGN IN 추가 및 기능 추가
